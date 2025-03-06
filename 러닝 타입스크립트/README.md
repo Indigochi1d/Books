@@ -15,5 +15,6 @@
 | 10 | 2024.08.11 | Chapter 6-(2)   | 배열            | [🌐Link](https://indigochi1d.tistory.com/34) |
 | 11 | 2024.08.19 | Chapter 7-(1)   | 인터페이스         | [🌐Link](https://indigochi1d.tistory.com/36) |
 | 12 | 2024.08.19 | Chapter 7-(2)   | 인터페이스         | [🌐Link](https://indigochi1d.tistory.com/37) |
-| 13 | 2024.09.20 | Chapter 8-(1)   | 클래스           |  [🌐Link](https://indigochi1d.tistory.com/39)                                            |
+| 13 | 2024.09.20 | Chapter 8-(1)   | 클래스           |  [🌐Link](https://indigochi1d.tistory.com/39) |
+| 14 | 2025.03.07 | Chapter 8-(2)   | 클래스           |  [🌐Link](https://indigochi1d.tistory.com/42) |
 
