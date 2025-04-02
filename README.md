@@ -1,6 +1,6 @@
 # FE-Books
 
-This document lists the books I've read to study frontend development.
+This document lists the books I've read to study frontend development and Web.
 
 | 번호 | 날짜       | 제목                 | 설명                                                               | 링크                                                                                        |
 | ---- | ---------- | -------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
