@@ -7,7 +7,7 @@
 | 장  | 날짜 | 제목 | 링크 |
 | --- | ---- | ---- | ---- |
 | 1   | 2025.04.03     |  HTTP개관    |  [링크](https://mercury-thistle-850.notion.site/Chapter-1-1c978d4a02d480a38a69d80101b85126?pvs=4)    |
-| 2   |      |      |      |
+| 2   |  2025.04.04    |  URL과 리소스    |   [링크](https://mercury-thistle-850.notion.site/Chapter-2-URL-Resource-1c978d4a02d480539747f2287703331c?pvs=4)   |
 | 3   |      |      |      |
 | 4   |      |      |      |
 
